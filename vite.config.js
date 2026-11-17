@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/',
+  base: '/thaadhana-happy-brithday-wish-from-tharun.github.io/',
 })
